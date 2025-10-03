@@ -1,6 +1,8 @@
+export const prerender = true;
+
 <script lang="ts">
 	import favicon from '$lib/assets/VA_Logo1.2.webp';
-	
+
 
 	let { children } = $props();
 </script>
